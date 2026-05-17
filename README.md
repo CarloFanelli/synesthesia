@@ -5,9 +5,7 @@
 > Audio-reactive 3D particle visualizer controlled by hand gestures.
 > Stack target: MediaPipe (vision) + Gibber (audio) + Three.js (3D) + GLSL shaders.
 
-Build guide: [planeProjects/WORKBOOK.md](https://github.com/CarloFanelli/planeProjects) (umbrella repo).
-
-Depends on the `handmouse` module from [CarloFanelli/handMouse](https://github.com/CarloFanelli/handMouse).
+Part of the [planeProjects](https://github.com/CarloFanelli/planeProjects) portfolio. Depends on the `handmouse` module from [CarloFanelli/handMouse](https://github.com/CarloFanelli/handMouse).
 
 ## Local setup (for offline dev)
 
